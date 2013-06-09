@@ -1,9 +1,6 @@
 {
-  "name": "mixins",
+  "name": "mixins-gradients",
   "version": "0.1.0",
-  "main": "mixins.less",
-  "ignore": [
-    ".jshintrc",
-    "*.sublime-*"
-  ]
+  "main": "mixins-gradients.less",
+  "ignore": ["*.sublime-*"]
 }
