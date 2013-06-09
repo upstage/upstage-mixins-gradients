@@ -4,14 +4,14 @@
 
 ## Get started
 
-[Download](https://github.com/upstage/mixins/archive/master.zip), or install with [Bower](https://github.com/bower/bower):
+[Download](https://github.com/upstage/mixins-gradients/archive/master.zip), or install using [Bower](https://github.com/bower/bower):
 
-To install this package only:
+Install this package only:
 ``` bash
 bower install mixins-gradients
 ```
 
-To install the Upstage mixin library:
+Install the Upstage mixin library:
 
 ``` bash
 bower install mixins
